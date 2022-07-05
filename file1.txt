@@ -1,1 +1,2 @@
-I can now use vi editor and am in insert mode!This is
+I can now use vi editor and am in insert mode!
+I have now modified my documents!
