@@ -2,3 +2,5 @@ I can now use vi editor and am in insert mode!
 I have now modified my documents!
 I have added feature branch!!
 Another line in feature
+
+3rd line added
